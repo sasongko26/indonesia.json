@@ -282,7 +282,27 @@
       "Jawa Tengah":[
          "Kota Tegal",
          "Kota Pekalongan",
-         "Kota Semarang",
+         {
+         "Kota Semarang":[
+            "Tugu",
+            "Ngaliyan",
+            "Mijen",
+            "Gunung Pati",
+            "Semarang Barat",
+            "Semarang Utara",
+            "Genuk",
+            "Pedurungan",
+            "Gayamsari",
+            "Semarang Timur",
+            "Semarang Tengah",
+            "Semarang Selatan",
+            "Gajah Mungkur",
+            "Candisari",
+            "Tembalang",
+            "Banyumanik"
+           ]
+         },    
+         
          "Kota Salatiga",
          "Kota Surakarta",
          "Kota Magelang",
