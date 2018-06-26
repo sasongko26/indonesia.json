@@ -310,7 +310,25 @@
          "Kab. Tegal",
          "Kab. Pemalang",
          "Kab. Pekalongan",
-         "Kab. Batang",
+		 {
+		 "Kab. Batang" : [
+		    "Kec. Wonotunggal",
+			"Kec. Bandar",
+			"Kec. Blado",
+			"Kec. Reban",
+			"Kec. Bawang",
+			"Kec. Tersono",
+			"Kec. Gringsing",
+			"Kec. Limpung",
+			"Kec. Subah",
+			"Kec. Tulis",
+			"Kec. Batang",
+			"Kec. Warungasem",
+			"Kec. Kandeman",
+			"Kec. Pecalungan",
+			"Kec. Banyuputih"
+		 ]
+		 },
          "Kab. Kendal",
          "Kab. Temanggung",
          "Kab. Semarang",
