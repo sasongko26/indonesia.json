@@ -333,7 +333,26 @@
          "Kab. Kebumen",
          "Kab. Banjarnegara",
          "Kab. Purbalingga",
-         "Kab. Banyumas",
+		 {
+		 "Kab. Banyumas" : [
+			"Kec. Patikraja",
+			"Kec. Kebasen",
+			"Kec. Sokaraja",
+			"Kec. Sumpiuh",
+			"Kec. Tambak",
+			"Kec. Gumelar",
+			"Kec. Pekuncen",
+			"Kec. Jatilawang",
+			"Kec. Sumbang",
+			"Kec. Baturraden",
+			"Kec. Wangon",
+			"Kec. Somagede",
+			"Kec. Ajibarang",
+			"Kec. Karang Lewas",
+			"Kec. Kembaran",
+			"Kec. Kalibagor"
+		 ]
+		 },
          "Kab. Cilacap"
       ]
    },
