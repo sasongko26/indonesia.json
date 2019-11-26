@@ -664,11 +664,107 @@
    },
    "28":{
       "Gorontalo ":[
-         "Kota Gorontalo",
-         "Kab. Pahuwato",
-         "Kab. Bone Bolango",
-         "Kab. Boalemo",
-         "Kab. Gorontalo"
+         {
+            "Kota Gorontalo": [
+               "Kota Selatan",
+               "Kota Utara",
+               "Kota Barat",
+               "Kota Timur",
+               "Kota Tengah",
+               "Dungingi",
+               "Dumbo Raya",
+               "Hulonthalangi",
+               "Sipatana"
+            ]
+         },
+         {
+            "Kab. Pohuwato": [
+               "Buntulia",
+               "Dengilo",
+               "Duhiadaa",
+               "Lemito",
+               "Marisa",
+               "Paguat",
+               "Patilanggio",
+               "Popayato",
+               "Popayato Barat",
+               "Popayato Timur",
+               "Randangan",
+               "Taluditi",
+               "Wanggarasi"
+            ]
+         },
+         {
+            "Kab. Bone Bolango": [
+               "Bone",
+               "Bone Raya",
+               "Bone Pantai",
+               "Botu Pingge",
+               "Bulango Selatan",
+               "Bulango Timur",
+               "Bulango Ulu",
+               "Bulango Utara",
+               "Bulawa",
+               "Kabila",
+               "Kabila Bone",
+               "Pinogu",
+               "Suwawa",
+               "Suwawa Selatan",
+               "Suwawa Tengah",
+               "Suwawa Timur",
+               "Tapa",
+               "Tilongkabila"
+            ]
+         },
+         {
+            "Kab. Boalemo": [
+               "Botumoito",
+               "Dulupi",
+               "Mananggu",
+               "Paguyaman",
+               "Paguyaman Pantai",
+               "Tilamuta",
+               "Wonosari"
+            ]
+         },
+         {
+            "Kab. Gorontalo": [
+               "Asparaga",
+               "Dungaliyo",
+               "Batudaa",
+               "Batudaa Pantai",
+               "Bilato",
+               "Biluhu",
+               "Boliyohuto",
+               "Bongomeme",
+               "Limboto",
+               "Limboto Barat",
+               "Mootilango",
+               "Pulubala",
+               "Tabongo",
+               "Telaga",
+               "Telaga Biru",
+               "Telaga Jaya",
+               "Tibawa",
+               "Tilango",
+               "Tolangohula"
+            ]
+         },
+         {
+            "Kab. Gorontalo Utara": [
+               "Anggrek",
+               "Atinggola",
+               "Biau",
+               "Gentuma Raya",
+               "Kwandang",
+               "Monano",
+               "Ponelo Kepulauan",
+               "Sumalata",
+               "Sumalata Timur",
+               "Tolinggula",
+               "Tomilito"
+            ]
+         }
       ]
    },
    "29":{
